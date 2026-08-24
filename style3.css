@@ -1,0 +1,27 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: arial;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    margin-bottom: 20px;
+}
+.products{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+.card{
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+}
+img{
+    width: 10px;
+    border-radius: 8px;
+
+}

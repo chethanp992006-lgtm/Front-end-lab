@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(230, 214, 230);
+    color:rgb(17, 16, 15);
+    text-align: center;
+    font-size: 25px;
+}
+
+table{
+    background-color:rgb(230, 238, 245);
+
+}
+
+.head{
+    background-color: blueviolet;
+}
+.qt:hover{
+    background-color: rgb(19, 4, 238);
+}
+.bd:hover{
+    background-color: chocolate;
+}
+.FD-L:hover{
+    background-color: rgb(22, 101, 248);
+}
+.BD-L:hover{
+    background-color: cyan;
+}
+.cc:hover{
+    background-color: darkgreen;
+}
+.fd:hover{
+    background-color: darkkhaki;
+}
+.iot:hover{
+    background-color: crimson;
+}
+.cs:hover{
+    background-color: darkorange;
+}

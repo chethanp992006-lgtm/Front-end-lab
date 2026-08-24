@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(148, 92, 148);
+    color:rgb(17, 16, 15);
+    text-align: center;
+    font-size: 25px;
+}
+
+table{
+    background-color:rgb(49, 149, 231);
+
+}
+article{
+    background-color:rgb(61, 23, 97);
+}
+
+header{
+    color:rgb(240, 167, 9);
+    font-size: 25px;
+}
